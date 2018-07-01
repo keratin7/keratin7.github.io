@@ -87,9 +87,6 @@ html, body {
   max-width: 800px;
   text-align: center;
 }
-.img-circle {
-    max-inline-size: 25%;
-}
 .container .text-muted {
   margin: 20px 0;
 }
